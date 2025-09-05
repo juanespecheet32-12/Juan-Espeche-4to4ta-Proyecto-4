@@ -1,0 +1,26 @@
+#define Azul 5
+#define Verde 3
+#define Rojo 1
+void setup()
+{
+  pinMode(Azul , OUTPUT);
+  pinMode(Verde , OUTPUT);
+  pinMode(Rojo , OUTPUT);
+}
+
+void loop()
+{
+  
+  for (int x = 0; x<=255; x++){
+    analogWrite( Rojo , x);
+    delay(100);
+    for (int y = 0; y<=255; y++){
+      analogWrite( Verde , y);
+      delay(100);
+      for (int z = 0; z<=255; z++){
+        analogWrite( Azul , z);
+        delay(100);
+      }
+    }}
+  delay(1000);
+}
