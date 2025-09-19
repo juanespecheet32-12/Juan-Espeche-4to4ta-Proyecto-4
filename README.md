@@ -1,1 +1,1 @@
-# Juan-Espeche-4to4ta-Proyecto-4
+Hoy entendi el TP 6 de Proyecto Informático y lo entregue B)
