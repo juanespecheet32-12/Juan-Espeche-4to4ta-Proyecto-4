@@ -1,1 +1,1 @@
-Hoy trabajamos sobre el proyecto y hicimos lo que nos pedia el profe que entreguemos.
+Hoy trabajamos sobre el proyecto y hicimos lo que nos pedia el profe que entreguemos. Investigué sobre como va a ser el funcionamiento del invernadero, vi que necesitamos sensores de humedad del suelo, vi sobre el funcionamiento de un LCD pero no se si lo lleguemos a utilizar en el proyecto, motores y suministro de energía. Pero no avance demasiado. Sentí que Démian y yo trabajamos.
