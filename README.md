@@ -1,1 +1,1 @@
-# Juan-Espeche-4to4ta-Proyecto-4
+ Vimos de vuelta como simulaba los sensores, cables y la pantalla lcd fisicamente. Vimos que para la temperatura funcionaba mal pero cambiamos el código (la variable de la temperatura lo sumamos por 39 porque nos tiraba temperatura negativa, al principio tiraba -18 °C) y nos funciono bien. Después probamos las dos variables juntas (la variable de la temperatura y de la humedad) y nos funciono bien tambien. Osea que nuestro proyecto FUNCIONA BIEN.
